@@ -42,7 +42,13 @@ We were planning to implement the following after we had successfully implemente
 
 ## Software Components - ROS
 - Roboflow Model Integration into ROS Node
+  >
+  > We used the provided Docker containers (that contained the ROS software) to create a new directory called `selfparking` in the `/home/projects/ros2_ws/src` file path. In `selfparking`, we created a new ROS node called `parking_recog.py`, where we established a node framework and implemented our trained model from Roboflow. We also adjusted our code in the `launch` files and `setup.py` to account for the addition of our node.
+  > 
 - Lane Following into ROS Node
+  >
+  > We calibrated an existing Lane Following node to match the lines of our parking spot. We changed our HSV (Hue Saturation Values), Masked values, and our PID values to successfully navigate across the parking spot. Our primary objective was to ensure that the car would traverse through the spot until it would lose track of the parking lines (after which it would stop). PID values control the car's steering, stability, and speed. P incidates proportial, which is used to make a faster reaction to steering. I indicates integral, which is used to balance out any errors. D is derivative, which is used to smoothen the path. The optimal PID values that we found were P = 0.8, I = 0.0, D = 0.1.
+  >
 - Debugging on Hardware
 
 ## Challenges Faced:
