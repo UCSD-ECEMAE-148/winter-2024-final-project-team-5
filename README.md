@@ -85,7 +85,7 @@ Below is our simple parking space made out of cardboard and tape.
   >
   > We were provided our model's code, which we later integrated into our Jetson for preliminary testing. 
 
-### ROS2
+### Docker and ROS2
 - UCSD Robocar
   >
   > We used the ROS2 image pulled from Docker Hub and implemented the UCSD Robocar module created by Dominic Nightingale. This module provided access to the Lane Following node, which was used in our final project
