@@ -99,6 +99,9 @@ Below is our simple parking space made out of cardboard and tape.
   > We added a condition that would try to deploy the lane following node after a certain confidence criteria was met (if confidence was greater than 0.3).
 
 ### Roboflow
+- Data collection
+  > We took 128 pictures include different angles and lighting of parking sign and parking lines at a paralle level to the camera on the car, annotated and used as a training data base in Roboflow.
+  > We trained the model with the following method: Roboflow 3.0 Object Detection (Fast) and tested with OAK-D Lite directly connects to our laptop.
 
 ## Challenges Faced:
 
