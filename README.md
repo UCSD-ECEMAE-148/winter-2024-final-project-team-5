@@ -125,6 +125,13 @@ Below is our simple parking space made out of cardboard and tape.
         > We tried to break the node before starting the lane following node.
         
      3. Manually provided access to OAK-D Lite in our code for the lane following node.
+
+2. Difficult to regonize the parking sign with a set distance.
+   - Potential Reason:
+    > We could not make sure the distance that the camera captured the parking sign is constant with different starting point. This creats difficulties for the car to park into the spot accuratlly.
+   - Action Taken
+    > We measured the distances that the sign got regonized and took an average number to place the parking sign.
+ 
      
 
 
