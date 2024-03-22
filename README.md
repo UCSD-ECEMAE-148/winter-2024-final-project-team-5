@@ -8,16 +8,16 @@
 
 
 ## The Plan: What We Promised
-The goal of our group was to develop a self-parking feature for an electric car using the knowledge and techniques learned in MAE 148. Our planned features included parking space recognition and self-parking capability. 
+The goal of our group was to develop a self parking feature for an autonomous car using the knowledge and techniques learned in MAE 148. Our planned features included parking space recognition and self-parking capability. 
 
 ### Must-Have Features:
-- Parking Space Recognition Function: Recognizes parking signs and lines.
-- Self-Parking Feature: Parks into a detected parking spot.
+- Parking space recognition: recognizes parking signs and lines.
+- Self parking feature: parks into a detected parking spot.
 
 ### Nice-to-Have Features:
 We were planning to implement the following after we had successfully implemented our primary goals of the project (time permitting)
-- Barrier Avoidance Function: Stops when collision risk is detected.
-- Automatic Search for Available Parking Spaces.
+- Barrier avoidance: stops when collision risk is detected.
+- Automatic search for available parking spaces.
 
 ## Current Result: Live Demonstration
 
@@ -27,13 +27,12 @@ We were planning to implement the following after we had successfully implemente
 - Callibrated the existing lane following node to maintain a centered path throughout the parking space 
 
 ## Hardware Components
-- CAD & Laser Cutting Parts
-- Parking Spot
+- CAD, 3D printed, and laser cut parts
+- Parking spot
 
 ## Software Components - OpenCV
-- Parking Sign Recognition
-- Parking Line Recognition
-- Roboflow Model Integration with Jetson
+- Parking sign recognition and parking line recognition
+- Roboflow model integration with Jetson
 
 ## Software Components - ROS
 - Roboflow Model Integration into ROS Node
