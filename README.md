@@ -72,7 +72,9 @@ Below is our simple parking space made out of cardboard and tape.
 <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/5a36feaa16d6065728c84d80c65d331129db72b5/images/Parking%20Spot.jpg" width="800" height="400" />
 
 ## Software Components 
-
+### Embedded Linux (using Jetson Nano)
+- We accessed the Jetson Nano using remote ssh connections to program and run our files. We were provided a ROS docker image that contained all dependencies needed to run ROS2, and we used that to simplify our workflow environment.
+ 
 ### OpenCV
 - Parking sign recognition and parking line recognition:
   >
@@ -83,7 +85,11 @@ Below is our simple parking space made out of cardboard and tape.
   >
   > We were provided our model's code, which we later integrated into our Jetson for preliminary testing. 
 
-### ROS
+### ROS2
+- UCSD Robocar
+  >
+  > We used the ROS2 image pulled from Docker Hub and implemented the UCSD Robocar module created by Dominic Nightingale. This module provided access to the Lane Following node, which was used in our final project
+  >
 - Roboflow Model Integration into ROS Node
   >
   > We used the provided Docker containers (that contained the ROS software) to create a new directory called `selfparking` in the `/home/projects/ros2_ws/src` file path. In `selfparking`, we created a new ROS node called `parking_recog.py`, where we established a node framework and implemented our trained model from Roboflow. We also adjusted our code in the `launch` files and `setup.py` to account for the addition of our node.
