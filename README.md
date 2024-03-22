@@ -1,3 +1,20 @@
+<div id="top"></div>
+
+<h1 align="center">UCSDrive! Autonomous Campus Rideshare</h1>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://jacobsschool.ucsd.edu/">
+    <img src="images\UCSDLogo_JSOE_BlueGold.png" alt="Logo" width="400" height="100">
+  </a>
+<h3>MAE148 Final Project</h3>
+<p>
+Team 4 Winter 2024
+</p>
+
+![image](https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/28326ab0-fc89-44c6-8a33-15f1d827e92d)
+</div>
 # Winter-2024-Final-Project-Team-5
 # MAE 148 Final Project Team 5
 
