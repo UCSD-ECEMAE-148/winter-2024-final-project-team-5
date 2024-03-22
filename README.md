@@ -58,7 +58,7 @@ We were planning to implement the following after we had successfully implemente
 #### Open Source Parts
 | Part | CAD Model |
 |------|--------|
-| Jetson Nano Case (Thingiverse- https://www.thingiverse.com/thing:3518410/files)| <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/df742d72a3439a81e6644fc7235f817b851dae68/images/Jetson%20case.jpg" width="400" height="300" /> |
+| Jetson Nano Case| <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/df742d72a3439a81e6644fc7235f817b851dae68/images/Jetson%20case.jpg" width="400" height="300" /> |
 
 
 ### Electronic Hardware
