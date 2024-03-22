@@ -13,7 +13,7 @@
 Team 5 Winter 2024
 </p>
 
-![image](https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/4deec9ce180e4f91449cba1c78bae674d76b20a8/images/The%20car.jpg)
+![image](https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/6929f160445d6561245db45c150a4be29c21ca07/images/The%20Car1.jpg)
 </div>
 
 
