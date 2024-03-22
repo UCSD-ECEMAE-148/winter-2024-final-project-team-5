@@ -35,7 +35,6 @@ We were planning to implement the following after we had successfully implemente
 - Barrier avoidance: stops when collision risk is detected.
 - Automatic search for available parking spaces.
 
-## Current Result: Live Demonstration
 
 ## The Result: What We Have Done
 - Successfully trained a custom parking space model using Roboflow YOLO (You Only Look Once) 
@@ -100,7 +99,6 @@ Below is a circuit diagram of the electronic hardware setup for the car.
      1. Attempted to stop the lane recognition node from accessing the OAK-D Lite Camera.
      2. Manually provided access to OAK-D Lite in our code for the lane following node.
 
-## Actual Result: Live Demonstration
 
 ## Future Improvements If Given More Time:
 
