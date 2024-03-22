@@ -111,9 +111,15 @@ Below is our simple parking space made out of cardboard and tape.
 1. Failing to start the lane following node after successfully completing the lane recognition node.
    - Potential Reason:
      Two nodes trying to connect to one camera simultaneously.
+     >
+     > We found that trying to run two nodes simultaneously in one file was problematic because of camera calibrations. For some reason, our parking recognition node was not disconnecting the camera after the detection was successful, which then propagated when the lane following node ran.
+     > 
    - Actions Taken:
      1. Attempted to stop the lane recognition node from accessing the OAK-D Lite Camera.
-     2. Manually provided access to OAK-D Lite in our code for the lane following node.
+        > We tried to break the node before starting the lane following node.
+        
+     3. Manually provided access to OAK-D Lite in our code for the lane following node.
+     
 
 
 ## Future Improvements If Given More Time:
