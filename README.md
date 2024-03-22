@@ -68,7 +68,9 @@ We were planning to implement the following after we had successfully implemente
   >
   >PID values control the car's steering, stability, and speed. P incidates proportial, which is used to make a faster reaction to steering. I indicates integral, which is used to balance out any errors. D is derivative, which is used to smoothen the path. The optimal PID values that we found were P = 0.8, I = 0.0, D = 0.1.
   >
-- Debugging on Hardware
+- Programming using ROS
+  >
+  > We added a condition that would try to deploy the lane following node after a certain confidence criteria was met (if confidence was greater than 0.3).
 
 ## Challenges Faced:
 
