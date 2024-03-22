@@ -46,29 +46,26 @@ We were planning to implement the following after we had successfully implemente
 - CAD, 3D printed, and laser cut parts
 - Parking spot
 ### CAD Parts
-#### Final Assembly
-<img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/aa99560c-a7ff-4ca0-b913-24ac75bb6eec" width="700" height="500" />
 
 #### Custom Designed Parts
 | Part | CAD Model | Designer |
 |------|--------------|------------|
-| Front Camera and LiDAR Mount | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/03902430-3625-4b19-ae1d-3ddaa344aa6a" width="300" height="300" /> | Kiersten
-| Side Camera and GNSS Puck Mount | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/ce443b16-9706-402e-be97-a78447cd391f" width="300" height="400" /> | Kiersten
-| Acrylic Base | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/2b4e5f76-f76d-4184-8922-512b867e38bc" width="300" height="300" /> | Damien
-| Side Paneling | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/d4d178f0-1912-44ac-8c8f-8a4d6e4bb17f" width="300" height="300" /> | Damien
+| Baseboard | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Baseboard.jpg" width="300" height="300" /> | Kiersten
+| Camera Stand | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Camera%20Stand.jpg" width="300" height="400" /> | Kiersten
+| Camera Mount Case | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Camera%20Mount%20Case.jpg" width="300" height="300" /> | Damien
+| GPS Stand | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/435cf3ad5e03ad05f420351e6aab87ea520d4244/images/GPS%20Stand.jpg" width="300" height="300" /> | Damien
 
 
 #### Open Source Parts
 | Part | CAD Model | Source |
 |------|--------|-----------|
-| Jetson Nano Case | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/6770d099-0e2e-4f8d-8072-991f1b72971f" width="400" height="300" /> | [Thingiverse](https://www.thingiverse.com/thing:3778338) |
-| Oak-D Lite Case | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/bcc64c60-d67c-47af-b0cb-f46ac7b8a4c1" width="400" height="300" /> | [Thingiverse](https://www.thingiverse.com/thing:533649) |
+| Jetson Nano Case | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/df742d72a3439a81e6644fc7235f817b851dae68/images/Jetson%20case.jpg" width="400" height="300" /> | [Thingiverse](https://www.thingiverse.com/thing:3778338) |
 
 
 ### Electronic Hardware
 Below is a circuit diagram of the electronic hardware setup for the car.
 
-<img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/6f7501ee-382a-4590-9c0a-f8ce738efec3" width="800" height="400" />
+<img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/5054c2fe5a73bdfd244b4e41bc6ad95910b975a2/images/MAE_148_Circuit_Diagram.png" width="800" height="400" />
 ## Software Components - OpenCV
 - Parking sign recognition and parking line recognition:
   >
