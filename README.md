@@ -1,4 +1,4 @@
-# winter-2024-final-project-team-5
+# Winter-2024-Final-Project-Team-5
 # MAE 148 Final Project Team 5
 
 - Kaustubh Kanagalekar (MAE)
