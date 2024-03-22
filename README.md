@@ -103,7 +103,8 @@ Below is our simple parking space made out of cardboard and tape.
   > We took 128 pictures include different angles and lighting of parking sign and parking lines at a paralle level to the camera on the car, annotated and used as a training data base in Roboflow.
 - Training and Testing
   > We trained the model with the following method: Roboflow 3.0 Object Detection (Fast) and tested with OAK-D Lite directly connects to our laptop.
-
+<img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/7d6fb97ff5de9c96c4a43c693b99dbebe13fcd04/images/Robo.jpg" width="800" height="400" />
+<img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/71a4162488d268de207e538d79c5aaefbf4ff053/images/Roboflow.jpg" width="800" height="400" />
 ## Challenges Faced:
 
 1. Failing to start the lane following node after successfully completing the lane recognition node.
