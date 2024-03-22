@@ -47,7 +47,9 @@ We were planning to implement the following after we had successfully implemente
   > 
 - Lane Following into ROS Node
   >
-  > We calibrated an existing Lane Following node to match the lines of our parking spot. We changed our HSV (Hue Saturation Values), Masked values, and our PID values to successfully navigate across the parking spot. Our primary objective was to ensure that the car would traverse through the spot until it would lose track of the parking lines (after which it would stop). PID values control the car's steering, stability, and speed. P incidates proportial, which is used to make a faster reaction to steering. I indicates integral, which is used to balance out any errors. D is derivative, which is used to smoothen the path. The optimal PID values that we found were P = 0.8, I = 0.0, D = 0.1.
+  > We calibrated an existing Lane Following node to match the lines of our parking spot. We changed our HSV (Hue Saturation Values), Masked values, and our PID values to successfully navigate across the parking spot. Our primary objective was to ensure that the car would traverse through the spot until it would lose track of the parking lines (after which it would stop).
+  >
+  >PID values control the car's steering, stability, and speed. P incidates proportial, which is used to make a faster reaction to steering. I indicates integral, which is used to balance out any errors. D is derivative, which is used to smoothen the path. The optimal PID values that we found were P = 0.8, I = 0.0, D = 0.1.
   >
 - Debugging on Hardware
 
