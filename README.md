@@ -61,6 +61,4 @@ The goal of our group was to develop a self-parking feature for an electric car 
 1. Improve understanding of ROS to solve current problems.
 2. Add lidar for automatic obstacle avoidance functionality.
 
-```
-
-#Speical thanks to Prof. Silberman, our TA Arjun Naageshwaran, Triton AI, and our amazing classmates for supporting and guiding us throught the course and final project!#
+**Speical thanks to Prof. Silberman, our TA Arjun Naageshwaran, Triton AI, and our amazing classmates for supporting and guiding us throught the course and final project!**
