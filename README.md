@@ -65,6 +65,12 @@ We were planning to implement the following after we had successfully implemente
 Below is a circuit diagram of the electronic hardware setup for the car.
 
 <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/5054c2fe5a73bdfd244b4e41bc6ad95910b975a2/images/MAE_148_Circuit_Diagram.png" width="800" height="400" />
+
+### Handmade Parking Spot
+Below is our simple parking space made out of cardboard and tape.
+
+<img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/5a36feaa16d6065728c84d80c65d331129db72b5/images/Parking%20Spot.jpg" width="800" height="400" />
+
 ## Software Components - OpenCV
 - Parking sign recognition and parking line recognition:
   >
