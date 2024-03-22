@@ -129,6 +129,9 @@ Below is our simple parking space made out of cardboard and tape.
 2. Difficult to regonize the parking sign with a set distance.
    - Potential Reason:
     > We could not make sure the distance that the camera captured the parking sign is constant with different starting points. This created difficulties for the car to park into the spot accurately.
+   - Action taken:
+     >
+     > We had to place our car close to the spot so that the camera would detect signs and the lanes. 
    
      
 
