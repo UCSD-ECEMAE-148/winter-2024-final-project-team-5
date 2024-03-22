@@ -6,25 +6,25 @@
 - Songyuan Lu (MAE)
 - Zongyu Gao (MAE)
 
-## Contents
-1. What We Have Promised
-2. Live Demonstration
-3. What We Have Done
 
 ## The Plan: What We Promised
-The goal of our group was to develop a self-parking feature for an electric car using the knowledge and techniques learned in MAE 148. Our planned features included parking space recognition, self-parking capability, barrier avoidance function, and automatic search for available parking spaces.
+The goal of our group was to develop a self-parking feature for an electric car using the knowledge and techniques learned in MAE 148. Our planned features included parking space recognition and self-parking capability. 
 
 ### Must-Have Features:
 - Parking Space Recognition Function: Recognizes parking signs and lines.
 - Self-Parking Feature: Parks into a detected parking spot.
 
 ### Nice-to-Have Features:
+We were planning to implement the following after we had successfully implemented our primary goals of the project (time permitting)
 - Barrier Avoidance Function: Stops when collision risk is detected.
 - Automatic Search for Available Parking Spaces.
 
 ## Current Result: Live Demonstration
 
 ## The Result: What We Have Done
+- Successfully trained a custom parking space model using Roboflow YOLO (You Only Look Once) 
+- Successfully ran the parking recognition node
+- Callibrated the existing lane following node to maintain a centered path throughout the parking space 
 
 ## Hardware Components
 - CAD & Laser Cutting Parts
@@ -53,12 +53,9 @@ The goal of our group was to develop a self-parking feature for an electric car 
 
 ## Future Improvements If Given More Time:
 
-1. Improve understanding of ROS to solve current problems.
-2. Add lidar for automatic obstacle avoidance functionality.
+1. Implementing another node that would subscribe to the parking recognition node, and then run the lane following node (instead of having two nodes in one)
+2. Improving our understanding of ROS to solve current problems.
+3. Adding lidar for automatic obstacle avoidance functionality.
 
-## Future Improvements If Given More Time:
-
-1. Improve understanding of ROS to solve current problems.
-2. Add lidar for automatic obstacle avoidance functionality.
 
 **Speical thanks to Prof. Silberman, our TA Arjun Naageshwaran, Triton AI, and our amazing classmates for supporting and guiding us throught the course and final project!**
