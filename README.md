@@ -144,4 +144,4 @@ Below is our simple parking space made out of cardboard and tape.
 
 Presentation (https://docs.google.com/presentation/d/1O7GzlUYajRHGXAjfatCKQfCSyGZsMRoO2xx1VeOBMCA/edit?usp=sharing)
 
-**Speical thanks to Prof. Silberman, our TA Arjun Naageshwaran, Triton AI, and our amazing classmates for supporting and guiding us throughout the course and final project!**
+**Special thanks to Prof. Silberman, our TA Arjun Naageshwaran, Triton AI, and our amazing classmates for supporting and guiding us throughout the course and final project!**
