@@ -13,7 +13,7 @@
 Team 4 Winter 2024
 </p>
 
-![image](https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/28326ab0-fc89-44c6-8a33-15f1d827e92d)
+![image](https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/4deec9ce180e4f91449cba1c78bae674d76b20a8/images/The%20car.jpg)
 </div>
 # Winter-2024-Final-Project-Team-5
 # MAE 148 Final Project Team 5
