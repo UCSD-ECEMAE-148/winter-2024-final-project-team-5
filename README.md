@@ -31,8 +31,14 @@ We were planning to implement the following after we had successfully implemente
 - Parking spot
 
 ## Software Components - OpenCV
-- Parking sign recognition and parking line recognition
-- Roboflow model integration with Jetson
+- Parking sign recognition and parking line recognition:
+  >
+  >We took ~250 images of our parking spot from different angles and lighting conditions and uploaded it to Roboflow. In Roboflow, we manually classified our images and distinguished between the parking sign and the parking lines. Then, we trained all the images using Roboflow YOLO.
+> 
+
+- Roboflow model integration with Jetson:
+  >
+  > We were provided our model's code, which we later integrated into our Jetson for preliminary testing. 
 
 ## Software Components - ROS
 - Roboflow Model Integration into ROS Node
