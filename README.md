@@ -71,7 +71,9 @@ Below is our simple parking space made out of cardboard and tape.
 
 <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/5a36feaa16d6065728c84d80c65d331129db72b5/images/Parking%20Spot.jpg" width="800" height="400" />
 
-## Software Components - OpenCV
+## Software Components 
+
+### OpenCV
 - Parking sign recognition and parking line recognition:
   >
   >We took ~250 images of our parking spot from different angles and lighting conditions and uploaded it to Roboflow. In Roboflow, we manually classified our images and distinguished between the parking sign and the parking lines. Then, we trained all the images using Roboflow YOLO.
@@ -81,7 +83,7 @@ Below is our simple parking space made out of cardboard and tape.
   >
   > We were provided our model's code, which we later integrated into our Jetson for preliminary testing. 
 
-## Software Components - ROS
+### ROS
 - Roboflow Model Integration into ROS Node
   >
   > We used the provided Docker containers (that contained the ROS software) to create a new directory called `selfparking` in the `/home/projects/ros2_ws/src` file path. In `selfparking`, we created a new ROS node called `parking_recog.py`, where we established a node framework and implemented our trained model from Roboflow. We also adjusted our code in the `launch` files and `setup.py` to account for the addition of our node.
@@ -95,6 +97,8 @@ Below is our simple parking space made out of cardboard and tape.
 - Programming using ROS
   >
   > We added a condition that would try to deploy the lane following node after a certain confidence criteria was met (if confidence was greater than 0.3).
+
+### Roboflow
 
 ## Challenges Faced:
 
