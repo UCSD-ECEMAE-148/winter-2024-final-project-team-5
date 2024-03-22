@@ -49,10 +49,10 @@ We were planning to implement the following after we had successfully implemente
 #### Custom Designed Parts
 | Part | CAD Model | Designer |
 |------|--------------|------------|
-| Baseboard | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Baseboard.jpg" width="300" height="300" /> | Kiersten
-| Camera Stand | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Camera%20Stand.jpg" width="300" height="400" /> | Kiersten
-| Camera Mount Case | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Camera%20Mount%20Case.jpg" width="300" height="300" /> | Damien
-| GPS Stand | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/435cf3ad5e03ad05f420351e6aab87ea520d4244/images/GPS%20Stand.jpg" width="300" height="300" /> | Damien
+| Baseboard | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Baseboard.jpg" width="300" height="300" /> | Zhongyu Gao
+| Camera Stand | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Camera%20Stand.jpg" width="300" height="400" /> | Zhongyu Gao and Songyuan Lu
+| Camera Mount Case | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/761f4fbad7697aade6f82330b155216b09f7b4f9/images/Camera%20Mount%20Case.jpg" width="300" height="300" /> | Songyuan Lu
+| GPS Stand | <img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-5/blob/435cf3ad5e03ad05f420351e6aab87ea520d4244/images/GPS%20Stand.jpg" width="300" height="300" /> | Songyuan Lu
 
 
 #### Open Source Parts
