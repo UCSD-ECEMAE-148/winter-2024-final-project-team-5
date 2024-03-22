@@ -57,4 +57,4 @@ We were planning to implement the following after we had successfully implemente
 3. Adding lidar for automatic obstacle avoidance functionality.
 
 
-**Speical thanks to Prof. Silberman, our TA Arjun Naageshwaran, Triton AI, and our amazing classmates for supporting and guiding us throught the course and final project!**
+**Speical thanks to Prof. Silberman, our TA Arjun Naageshwaran, Triton AI, and our amazing classmates for supporting and guiding us throughout the course and final project!**
