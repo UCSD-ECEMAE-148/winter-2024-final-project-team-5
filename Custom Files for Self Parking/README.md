@@ -10,3 +10,4 @@ Here are the steps that we took to make the node-
 7. `source install/setup.bash`
 8. `ros2 launch selfparking launch.launch.py`
 
+Note that `parking_recog.py` does not work properly (it throws an error when launching the second node)
